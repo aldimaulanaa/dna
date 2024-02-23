@@ -11,7 +11,7 @@ A modern and interactive news website built with Vue.js and powered by NewsAPI. 
 ⚙️ Installation
 Clone the repository:
 
-git clone https://github.com/Armanidrisi/vue-news-website.git
+git clone https://github.com/aldimaulanaa/dna
 Install dependencies:
 
 cd vue-news-website
